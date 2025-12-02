@@ -1,0 +1,17 @@
+.input{
+    width: 400px;
+    outline: none;
+}
+.loginInput{
+    display: flex;
+    flex-direction: column;
+}
+.loginForm{
+   width: 410px;
+    margin: auto;
+    background-color: rgb(255, 0, 0);
+    padding: 4px 6px 8px 10px;
+    border-radius: 5px;
+    border: 3px solid rgb(120, 162, 254, 0.935);
+    box-shadow: 15px 0 0 rgba(120, 162, 254, 0.935);
+}
